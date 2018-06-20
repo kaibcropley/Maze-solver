@@ -1,0 +1,7 @@
+5 5
+2 3
+XXXXX
+  XXX
+X   X
+XXXXX
+XXXXX
